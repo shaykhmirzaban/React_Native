@@ -6,6 +6,7 @@ import Login2 from "./screen/Login2";
 import Login3 from "./screen/Login3";
 import Login4 from "./screen/Login4";
 import Login5 from "./screen/Login5";
+import Todo from "./screen/Todo";
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       {/* < Login3 /> */}
       {/* <Login4 /> */}
       {/* <Login5 /> */}
+      <Todo />
     </>
   )
 };
